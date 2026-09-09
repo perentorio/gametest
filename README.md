@@ -31,3 +31,14 @@ Files in the approved proposal:
 - pong.js
 
 Bumblebee has not run automated tests or verified runtime behavior for this change.
+
+
+<!-- bumblebee-pr-7 -->
+### Merged change: Document Pong setup, controls, and manual validation
+
+Merged pull request #7: https://github.com/perentorio/gametest/pull/7
+
+Files in the approved proposal:
+- README.md
+
+Bumblebee has not run automated tests or verified runtime behavior for this change.
